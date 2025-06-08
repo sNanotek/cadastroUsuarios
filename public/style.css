@@ -1,0 +1,68 @@
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(0.25turn, #27043f, #9380b3, #400f61);
+  margin: 0;
+  padding: 20px;
+}
+
+.principal{
+  display: flex;
+  gap: 10px;
+  height: 80vh;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.areaFormulario{
+  width: 20%;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+}
+
+.areaFormulario > input{
+  margin-bottom: 10px;
+  border: 1px solid red;
+  border-radius: 2px;
+}
+
+.main {
+  max-width: 600px;
+  margin: auto;
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.mainTitle {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.formArea {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+
+.formArea input {
+  flex: 1 1 30%;
+  padding: 8px;
+}
+
+.userList {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.userCard {
+  background: #e0e0e0;
+  padding: 10px;
+}
+
+#botaoAdicionar{
+  cursor: pointer;
+}
