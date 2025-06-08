@@ -89,7 +89,8 @@ Se quiser testar o projeto na sua máquina, é só seguir os passos abaixo:
 
     No arquivo server.js verifique se
 
-    ![{F360D022-FD7A-49DE-BF82-6AF2D1C9BE87}](https://github.com/user-attachments/assets/95aa51f1-ed4f-4887-97e4-31481f96a911)
+    !![{F360D022-FD7A-49DE-BF82-6AF2D1C9BE87}](https://github.com/user-attachments/assets/423d7652-81d5-4e1c-ad2c-e89103ddb757)
+
 
     todas as informações estão corretas e relacionadas com o seu mysql
     
